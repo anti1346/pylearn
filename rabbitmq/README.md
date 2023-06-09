@@ -1,6 +1,8 @@
+#### python3-pip 설치
 ```
 apt install -y python3-pip
 ```
+#### 파이션 pika 라이브러리 설치
 ```
 pip install pika
 ```
